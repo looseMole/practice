@@ -1,0 +1,1 @@
+These projects follow the CodeKata posted on the aptly name website CodeKata.com, by Dave Thomas.
